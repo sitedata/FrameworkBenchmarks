@@ -1,4 +1,4 @@
-asyncpg==0.16.0
+asyncpg==0.21.0
 gunicorn==19.9.0
 responder >= 0.0.4
 jinja2==2.10.1
