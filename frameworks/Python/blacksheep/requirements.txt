@@ -1,4 +1,4 @@
-asyncpg==0.19.0
+asyncpg==0.21.0
 gunicorn==19.9.0
 Jinja2==2.10.3
 blacksheep==0.2.0
