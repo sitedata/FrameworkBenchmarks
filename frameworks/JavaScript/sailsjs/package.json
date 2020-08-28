@@ -14,8 +14,8 @@
     "pg": "6.0.5",
     "pg-hstore": "2.3.2",
     "rc": "1.1.6",
-    "sails": "0.12.7",
-    "sails-disk": "0.10.10",
+    "sails": "1.0.0",
+    "sails-disk": "1.0.0",
     "sequelize": "5.10.0"
   },
   "scripts": {
