@@ -54,7 +54,7 @@
 									</pluginExecutionFilter>
 
 									<action>
-										<execute />
+										<execute/>
 									</action>
 								</pluginExecution>
 								 <pluginExecution>
@@ -150,7 +150,7 @@
 						<argument>-classpath</argument>
 						<!-- automatically creates the classpath using all project dependencies, 
 							also adding the project build directory -->
-						<classpath />
+						<classpath/>
 						<argument>io.sinistral.ExampleApplication</argument>
 
 					</arguments>
@@ -252,7 +252,7 @@
 	  	<dependency>
 			<groupId>org.postgresql</groupId>
 			<artifactId>postgresql</artifactId>
-			<version>42.2.5</version>
+			<version>42.2.13</version>
 		</dependency>  
 	</dependencies>
 	<repositories>
