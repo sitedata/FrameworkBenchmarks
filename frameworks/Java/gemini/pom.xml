@@ -29,7 +29,7 @@
         <dependency>
             <groupId>com.techempower</groupId>
             <artifactId>gemini</artifactId>
-            <version>2.24.0</version>
+            <version>2.25.2</version>
         </dependency>
         <dependency>
             <groupId>com.techempower</groupId>
