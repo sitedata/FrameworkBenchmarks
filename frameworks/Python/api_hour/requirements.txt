@@ -17,3 +17,5 @@ setproctitle==1.1.8
 ujson==1.33
 aiomysql==0.0.7
 PyMySQL==0.6.7
+
+urllib3>=1.25.9 # not directly required, pinned by Snyk to avoid a vulnerability
