@@ -10,7 +10,7 @@
 		<maven.compiler.target>11</maven.compiler.target>
 		<!-- the main class -->
 		<main.class>vertx.App</main.class>
-		<stack.version>3.7.0</stack.version>
+		<stack.version>3.9.4</stack.version>
 		<netty.version>4.1.36.Final</netty.version>
 	</properties>
 
@@ -94,14 +94,12 @@
 						</goals>
 						<configuration>
 							<transformers>
-								<transformer
-									implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
+								<transformer implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
 									<manifestEntries>
 										<Main-Class>${main.class}</Main-Class>
 									</manifestEntries>
 								</transformer>
-								<transformer
-									implementation="org.apache.maven.plugins.shade.resource.AppendingTransformer">
+								<transformer implementation="org.apache.maven.plugins.shade.resource.AppendingTransformer">
 									<resource>META-INF/services/io.vertx.core.spi.VerticleFactory</resource>
 								</transformer>
 							</transformers>
