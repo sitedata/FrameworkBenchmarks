@@ -2,7 +2,7 @@
 
 source 'https://rubygems.org'
 
-gem 'agoo'
+gem 'agoo', '>= 2.14.0'
 gem 'connection_pool'
 gem 'oj'
 gem 'pg'
