@@ -7,7 +7,7 @@
   "dependencies": {
     "async": "1.5.2",
     "bluebird": "3.4.1",
-    "ejs": "2.5.7",
+    "ejs": "3.1.6",
     "handlebars": "4.1.2",
     "mysql": "2.16.0",
     "mysql2": "1.6.5",
