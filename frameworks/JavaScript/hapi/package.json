@@ -5,7 +5,7 @@
   "dependencies": {
     "async": "2.1.5",
     "bluebird": "3.4.7",
-    "handlebars": "4.1.2",
+    "handlebars": "4.7.7",
     "hapi": "16.1.1",
     "vision": "4.1.0",
     "mongoose": "5.0.6",
