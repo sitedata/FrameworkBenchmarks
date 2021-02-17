@@ -13,6 +13,6 @@ PyMySQL==0.8.0
 readline==6.2.4.1
 singledispatch==3.4.0.3
 six==1.11.0
-SQLAlchemy==1.2.2
-tornado==4.5.3
-Werkzeug==0.14.1
+SQLAlchemy==1.2.18
+tornado==5.1.0
+Werkzeug==0.15.3
