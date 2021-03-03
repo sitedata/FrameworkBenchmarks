@@ -15,7 +15,7 @@
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
         <blade.version>2.0.15.ALPHA</blade.version>
-        <netty.version>4.1.36.Final</netty.version>
+        <netty.version>4.1.59.Final</netty.version>
         <anima.version>0.2.6</anima.version>
         <hikaricp.version>3.3.1</hikaricp.version>
         <mysql-conn.version>8.0.18</mysql-conn.version>
