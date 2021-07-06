@@ -16,6 +16,6 @@
     "pg": "4.5.7",
     "pg-promise": "8.4.6",
     "pug": "2.0.1",
-    "sequelize": "5.10.0"
+    "sequelize": "6.6.5"
   }
 }
